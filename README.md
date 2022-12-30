@@ -3,6 +3,9 @@
 檔案位置：```/home/elsalab/Desktop/23/husky_ws/src/bbox/src/scripts/models/```
 :::
 
+
+[Model下載連結](https://drive.google.com/file/d/1yH0htWdx-N8ahsM7bREstx4QgPunzv5j/view?usp=share_link)
+
 ## Pytorch轉TensorRT
 
 Log 細節可參考：[TensorRT-Log](./Logs/TensorRT-Log.md)
